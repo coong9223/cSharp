@@ -1,0 +1,11 @@
+D:\cSharp\TongQuanWinForm\bin\Debug\TongQuanWinForm.exe.config
+D:\cSharp\TongQuanWinForm\bin\Debug\TongQuanWinForm.exe
+D:\cSharp\TongQuanWinForm\bin\Debug\TongQuanWinForm.pdb
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.csproj.AssemblyReference.cache
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.csproj.SuggestedBindingRedirects.cache
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.Form1.resources
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.Properties.Resources.resources
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.csproj.GenerateResource.cache
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.csproj.CoreCompileInputs.cache
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.exe
+D:\cSharp\TongQuanWinForm\obj\Debug\TongQuanWinForm.pdb

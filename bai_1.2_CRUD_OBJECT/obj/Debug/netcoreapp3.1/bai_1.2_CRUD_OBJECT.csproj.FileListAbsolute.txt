@@ -1,0 +1,16 @@
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.csproj.AssemblyReference.cache
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1._2_CRUD_OBJECT.Views.FrmQLCuaHang.resources
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.csproj.GenerateResource.cache
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.AssemblyInfoInputs.cache
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.AssemblyInfo.cs
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.csproj.CoreCompileInputs.cache
+D:\cSharp\bai_1.2_CRUD_OBJECT\bin\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.exe
+D:\cSharp\bai_1.2_CRUD_OBJECT\bin\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.deps.json
+D:\cSharp\bai_1.2_CRUD_OBJECT\bin\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.runtimeconfig.json
+D:\cSharp\bai_1.2_CRUD_OBJECT\bin\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.runtimeconfig.dev.json
+D:\cSharp\bai_1.2_CRUD_OBJECT\bin\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.dll
+D:\cSharp\bai_1.2_CRUD_OBJECT\bin\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.pdb
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.dll
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.pdb
+D:\cSharp\bai_1.2_CRUD_OBJECT\obj\Debug\netcoreapp3.1\bai_1.2_CRUD_OBJECT.genruntimeconfig.cache

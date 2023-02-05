@@ -1,0 +1,5 @@
+D:\console\lab 3 vvà 4 sửa\obj\Debug\net6.0\lab 3 vvà 4 sửa.csproj.AssemblyReference.cache
+D:\console\lab 3 vvà 4 sửa\obj\Debug\net6.0\lab 3 vvà 4 sửa.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\lab 3 vvà 4 sửa\obj\Debug\net6.0\lab 3 vvà 4 sửa.AssemblyInfoInputs.cache
+D:\console\lab 3 vvà 4 sửa\obj\Debug\net6.0\lab 3 vvà 4 sửa.AssemblyInfo.cs
+D:\console\lab 3 vvà 4 sửa\obj\Debug\net6.0\lab 3 vvà 4 sửa.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\console\Congnt_PH27488\bin\Debug\net6.0\Congnt_PH27488.exe
+D:\console\Congnt_PH27488\bin\Debug\net6.0\Congnt_PH27488.deps.json
+D:\console\Congnt_PH27488\bin\Debug\net6.0\Congnt_PH27488.runtimeconfig.json
+D:\console\Congnt_PH27488\bin\Debug\net6.0\Congnt_PH27488.dll
+D:\console\Congnt_PH27488\bin\Debug\net6.0\Congnt_PH27488.pdb
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.csproj.AssemblyReference.cache
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.AssemblyInfoInputs.cache
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.AssemblyInfo.cs
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.csproj.CoreCompileInputs.cache
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.dll
+D:\console\Congnt_PH27488\obj\Debug\net6.0\refint\Congnt_PH27488.dll
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.pdb
+D:\console\Congnt_PH27488\obj\Debug\net6.0\Congnt_PH27488.genruntimeconfig.cache
+D:\console\Congnt_PH27488\obj\Debug\net6.0\ref\Congnt_PH27488.dll

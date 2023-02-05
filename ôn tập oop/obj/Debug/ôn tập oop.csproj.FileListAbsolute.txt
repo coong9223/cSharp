@@ -1,0 +1,8 @@
+D:\console\ôn tập oop\bin\Debug\ôn tập oop.exe.config
+D:\console\ôn tập oop\bin\Debug\ôn tập oop.exe
+D:\console\ôn tập oop\bin\Debug\ôn tập oop.pdb
+D:\console\ôn tập oop\obj\Debug\ôn tập oop.csproj.AssemblyReference.cache
+D:\console\ôn tập oop\obj\Debug\ôn tập oop.csproj.SuggestedBindingRedirects.cache
+D:\console\ôn tập oop\obj\Debug\ôn tập oop.csproj.CoreCompileInputs.cache
+D:\console\ôn tập oop\obj\Debug\ôn tập oop.exe
+D:\console\ôn tập oop\obj\Debug\ôn tập oop.pdb

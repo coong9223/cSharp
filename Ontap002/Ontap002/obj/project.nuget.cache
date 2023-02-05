@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCz/gpJ92p0Od24MyuZ0Q0GBrfWJKTuQXUuY/oOHZX4vOsVUzTqHnBzSxMnF1f/7QjvweGG6uWeI7AatHsSgOA==",
+  "success": true,
+  "projectFilePath": "D:\\console\\Ontap002\\Ontap002\\Ontap002.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cong's laptop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\Cong's laptop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cong's laptop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Cong's laptop\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

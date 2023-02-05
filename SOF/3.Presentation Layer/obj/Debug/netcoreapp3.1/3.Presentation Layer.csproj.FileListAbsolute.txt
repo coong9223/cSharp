@@ -1,0 +1,61 @@
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\3.Presentation Layer.exe
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\3.Presentation Layer.deps.json
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\3.Presentation Layer.runtimeconfig.json
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\3.Presentation Layer.runtimeconfig.dev.json
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\3.Presentation Layer.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\3.Presentation Layer.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\1.DAL.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\2.BUS.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\2.BUS.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\bin\Debug\netcoreapp3.1\1.DAL.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.csproj.GenerateResource.cache
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.AssemblyInfoInputs.cache
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.AssemblyInfo.cs
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.csproj.CopyComplete
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.dll
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.pdb
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\3.Presentation Layer.genruntimeconfig.cache
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\_3.Presentation_Layer.Views.FRMQLNsx.resources
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\_3.Presentation_Layer.Views.FRMQLSanPham.resources
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\_3.Presentation_Layer.Views.FRMQLCuaHang.resources
+C:\Users\This PC\Documents\C#3\SOF\3.Presentation Layer\obj\Debug\netcoreapp3.1\_3.Presentation_Layer.Views.FRMQLKhachHang.resources

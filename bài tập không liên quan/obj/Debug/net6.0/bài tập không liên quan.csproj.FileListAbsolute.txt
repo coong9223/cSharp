@@ -1,0 +1,15 @@
+D:\console\bài tập không liên quan\bin\Debug\net6.0\bài tập không liên quan.exe
+D:\console\bài tập không liên quan\bin\Debug\net6.0\bài tập không liên quan.deps.json
+D:\console\bài tập không liên quan\bin\Debug\net6.0\bài tập không liên quan.runtimeconfig.json
+D:\console\bài tập không liên quan\bin\Debug\net6.0\bài tập không liên quan.dll
+D:\console\bài tập không liên quan\bin\Debug\net6.0\bài tập không liên quan.pdb
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.csproj.AssemblyReference.cache
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.AssemblyInfoInputs.cache
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.AssemblyInfo.cs
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.csproj.CoreCompileInputs.cache
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.dll
+D:\console\bài tập không liên quan\obj\Debug\net6.0\refint\bài tập không liên quan.dll
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.pdb
+D:\console\bài tập không liên quan\obj\Debug\net6.0\bài tập không liên quan.genruntimeconfig.cache
+D:\console\bài tập không liên quan\obj\Debug\net6.0\ref\bài tập không liên quan.dll

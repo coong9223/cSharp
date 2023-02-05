@@ -1,0 +1,8 @@
+D:\console\tenviettat\bin\Debug\tenviettat.exe.config
+D:\console\tenviettat\bin\Debug\tenviettat.exe
+D:\console\tenviettat\bin\Debug\tenviettat.pdb
+D:\console\tenviettat\obj\Debug\tenviettat.csproj.AssemblyReference.cache
+D:\console\tenviettat\obj\Debug\tenviettat.csproj.SuggestedBindingRedirects.cache
+D:\console\tenviettat\obj\Debug\tenviettat.csproj.CoreCompileInputs.cache
+D:\console\tenviettat\obj\Debug\tenviettat.exe
+D:\console\tenviettat\obj\Debug\tenviettat.pdb

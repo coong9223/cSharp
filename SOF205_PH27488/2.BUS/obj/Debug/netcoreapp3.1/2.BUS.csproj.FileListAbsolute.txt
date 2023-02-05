@@ -1,0 +1,13 @@
+D:\cSharp\SOF205_PH27488\2.BUS\bin\Debug\netcoreapp3.1\2.BUS.deps.json
+D:\cSharp\SOF205_PH27488\2.BUS\bin\Debug\netcoreapp3.1\2.BUS.dll
+D:\cSharp\SOF205_PH27488\2.BUS\bin\Debug\netcoreapp3.1\2.BUS.pdb
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.csproj.AssemblyReference.cache
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.AssemblyInfoInputs.cache
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.AssemblyInfo.cs
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.csproj.CoreCompileInputs.cache
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.dll
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.pdb
+D:\cSharp\SOF205_PH27488\2.BUS\bin\Debug\netcoreapp3.1\1.DAL.dll
+D:\cSharp\SOF205_PH27488\2.BUS\bin\Debug\netcoreapp3.1\1.DAL.pdb
+D:\cSharp\SOF205_PH27488\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.csproj.CopyComplete

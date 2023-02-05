@@ -1,0 +1,5 @@
+D:\console\kiểm tra\obj\Debug\net6.0\kiểm tra.csproj.AssemblyReference.cache
+D:\console\kiểm tra\obj\Debug\net6.0\kiểm tra.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\kiểm tra\obj\Debug\net6.0\kiểm tra.AssemblyInfoInputs.cache
+D:\console\kiểm tra\obj\Debug\net6.0\kiểm tra.AssemblyInfo.cs
+D:\console\kiểm tra\obj\Debug\net6.0\kiểm tra.csproj.CoreCompileInputs.cache

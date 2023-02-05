@@ -1,0 +1,230 @@
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.exe
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.deps.json
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.json
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.dev.json
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.AssemblyReference.cache
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.GenerateResource.cache
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfoInputs.cache
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfo.cs
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CoreCompileInputs.cache
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.genruntimeconfig.cache
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLCuaHang.resources
+D:\FPT Polytechnic\c#\C#3\2_IT17331_NET103_BL2_SM22-main\2_IT17331_NET103_BL2_SM22\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CopyComplete
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.exe
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.deps.json
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.json
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.dev.json
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.AssemblyReference.cache
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLCuaHang.resources
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.GenerateResource.cache
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfoInputs.cache
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfo.cs
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CoreCompileInputs.cache
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CopyComplete
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.genruntimeconfig.cache
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLChucVu.resources
+D:\FPT Polytechnic\c#\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLNhanVien.resources
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.exe
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.deps.json
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.json
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.dev.json
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLChucVu.resources
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLCuaHang.resources
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLNhanVien.resources
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfo.cs
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CopyComplete
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+C:\Users\adm\Desktop\C#3\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.genruntimeconfig.cache
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.exe
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.deps.json
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.json
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.runtimeconfig.dev.json
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.AssemblyReference.cache
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLChucVu.resources
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLCuaHang.resources
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.Views.FrmQLNhanVien.resources
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.GenerateResource.cache
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.GeneratedMSBuildEditorConfig.editorconfig
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfoInputs.cache
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.AssemblyInfo.cs
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CoreCompileInputs.cache
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.csproj.CopyComplete
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.dll
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.pdb
+D:\zalo download\Assginment\BAI_1_6_CRUD_EF_DBFIRST\obj\Debug\netcoreapp3.1\BAI_1_6_CRUD_EF_DBFIRST.genruntimeconfig.cache

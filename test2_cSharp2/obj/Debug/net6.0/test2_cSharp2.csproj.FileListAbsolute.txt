@@ -1,0 +1,5 @@
+D:\console\test2_cSharp2\obj\Debug\net6.0\test2_cSharp2.csproj.AssemblyReference.cache
+D:\console\test2_cSharp2\obj\Debug\net6.0\test2_cSharp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\test2_cSharp2\obj\Debug\net6.0\test2_cSharp2.AssemblyInfoInputs.cache
+D:\console\test2_cSharp2\obj\Debug\net6.0\test2_cSharp2.AssemblyInfo.cs
+D:\console\test2_cSharp2\obj\Debug\net6.0\test2_cSharp2.csproj.CoreCompileInputs.cache

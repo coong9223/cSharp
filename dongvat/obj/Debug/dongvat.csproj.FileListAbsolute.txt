@@ -1,0 +1,8 @@
+D:\console\dongvat\bin\Debug\dongvat.exe.config
+D:\console\dongvat\bin\Debug\dongvat.exe
+D:\console\dongvat\bin\Debug\dongvat.pdb
+D:\console\dongvat\obj\Debug\dongvat.csproj.AssemblyReference.cache
+D:\console\dongvat\obj\Debug\dongvat.csproj.SuggestedBindingRedirects.cache
+D:\console\dongvat\obj\Debug\dongvat.csproj.CoreCompileInputs.cache
+D:\console\dongvat\obj\Debug\dongvat.exe
+D:\console\dongvat\obj\Debug\dongvat.pdb

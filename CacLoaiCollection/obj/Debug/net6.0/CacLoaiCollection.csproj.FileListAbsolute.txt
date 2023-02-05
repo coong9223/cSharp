@@ -1,0 +1,15 @@
+D:\console\CacLoaiCollection\bin\Debug\net6.0\CacLoaiCollection.exe
+D:\console\CacLoaiCollection\bin\Debug\net6.0\CacLoaiCollection.deps.json
+D:\console\CacLoaiCollection\bin\Debug\net6.0\CacLoaiCollection.runtimeconfig.json
+D:\console\CacLoaiCollection\bin\Debug\net6.0\CacLoaiCollection.dll
+D:\console\CacLoaiCollection\bin\Debug\net6.0\CacLoaiCollection.pdb
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.csproj.AssemblyReference.cache
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.AssemblyInfoInputs.cache
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.AssemblyInfo.cs
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.csproj.CoreCompileInputs.cache
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.dll
+D:\console\CacLoaiCollection\obj\Debug\net6.0\refint\CacLoaiCollection.dll
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.pdb
+D:\console\CacLoaiCollection\obj\Debug\net6.0\CacLoaiCollection.genruntimeconfig.cache
+D:\console\CacLoaiCollection\obj\Debug\net6.0\ref\CacLoaiCollection.dll

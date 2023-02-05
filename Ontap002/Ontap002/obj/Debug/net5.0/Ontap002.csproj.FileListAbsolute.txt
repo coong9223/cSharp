@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Ontap002\Ontap002\bin\Debug\net5.0\Ontap002.exe
+C:\Users\DELL\source\repos\Ontap002\Ontap002\bin\Debug\net5.0\Ontap002.deps.json
+C:\Users\DELL\source\repos\Ontap002\Ontap002\bin\Debug\net5.0\Ontap002.runtimeconfig.json
+C:\Users\DELL\source\repos\Ontap002\Ontap002\bin\Debug\net5.0\Ontap002.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Ontap002\Ontap002\bin\Debug\net5.0\Ontap002.dll
+C:\Users\DELL\source\repos\Ontap002\Ontap002\bin\Debug\net5.0\ref\Ontap002.dll
+C:\Users\DELL\source\repos\Ontap002\Ontap002\bin\Debug\net5.0\Ontap002.pdb
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.dll
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\ref\Ontap002.dll
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.pdb
+C:\Users\DELL\source\repos\Ontap002\Ontap002\obj\Debug\net5.0\Ontap002.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\console\PH27488_KhanhPH\obj\Debug\PH27488_KhanhPH.csproj.AssemblyReference.cache
+D:\console\PH27488_KhanhPH\obj\Debug\PH27488_KhanhPH.csproj.SuggestedBindingRedirects.cache
+D:\console\PH27488_KhanhPH\obj\Debug\PH27488_KhanhPH.csproj.CoreCompileInputs.cache
+D:\console\PH27488_KhanhPH\bin\Debug\PH27488_KhanhPH.exe.config
+D:\console\PH27488_KhanhPH\bin\Debug\PH27488_KhanhPH.exe
+D:\console\PH27488_KhanhPH\bin\Debug\PH27488_KhanhPH.pdb
+D:\console\PH27488_KhanhPH\obj\Debug\PH27488_KhanhPH.exe
+D:\console\PH27488_KhanhPH\obj\Debug\PH27488_KhanhPH.pdb

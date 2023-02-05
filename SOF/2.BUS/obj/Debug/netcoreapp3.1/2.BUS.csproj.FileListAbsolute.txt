@@ -1,0 +1,13 @@
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\bin\Debug\netcoreapp3.1\2.BUS.deps.json
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\bin\Debug\netcoreapp3.1\2.BUS.dll
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\bin\Debug\netcoreapp3.1\2.BUS.pdb
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\bin\Debug\netcoreapp3.1\1.DAL.dll
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\bin\Debug\netcoreapp3.1\1.DAL.pdb
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.csproj.AssemblyReference.cache
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.AssemblyInfoInputs.cache
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.AssemblyInfo.cs
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.csproj.CopyComplete
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.dll
+C:\Users\This PC\Documents\C#3\SOF\2.BUS\obj\Debug\netcoreapp3.1\2.BUS.pdb

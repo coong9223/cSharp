@@ -1,0 +1,15 @@
+D:\console\c2-practice\bin\Debug\net6.0\c2-practice.exe
+D:\console\c2-practice\bin\Debug\net6.0\c2-practice.deps.json
+D:\console\c2-practice\bin\Debug\net6.0\c2-practice.runtimeconfig.json
+D:\console\c2-practice\bin\Debug\net6.0\c2-practice.dll
+D:\console\c2-practice\bin\Debug\net6.0\c2-practice.pdb
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.csproj.AssemblyReference.cache
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.AssemblyInfoInputs.cache
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.AssemblyInfo.cs
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.csproj.CoreCompileInputs.cache
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.dll
+D:\console\c2-practice\obj\Debug\net6.0\refint\c2-practice.dll
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.pdb
+D:\console\c2-practice\obj\Debug\net6.0\c2-practice.genruntimeconfig.cache
+D:\console\c2-practice\obj\Debug\net6.0\ref\c2-practice.dll

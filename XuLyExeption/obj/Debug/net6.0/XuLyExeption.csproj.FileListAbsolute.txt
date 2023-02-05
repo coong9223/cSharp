@@ -1,0 +1,15 @@
+D:\console\XuLyExeption\bin\Debug\net6.0\XuLyExeption.exe
+D:\console\XuLyExeption\bin\Debug\net6.0\XuLyExeption.deps.json
+D:\console\XuLyExeption\bin\Debug\net6.0\XuLyExeption.runtimeconfig.json
+D:\console\XuLyExeption\bin\Debug\net6.0\XuLyExeption.dll
+D:\console\XuLyExeption\bin\Debug\net6.0\XuLyExeption.pdb
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.csproj.AssemblyReference.cache
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.AssemblyInfoInputs.cache
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.AssemblyInfo.cs
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.csproj.CoreCompileInputs.cache
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.dll
+D:\console\XuLyExeption\obj\Debug\net6.0\refint\XuLyExeption.dll
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.pdb
+D:\console\XuLyExeption\obj\Debug\net6.0\XuLyExeption.genruntimeconfig.cache
+D:\console\XuLyExeption\obj\Debug\net6.0\ref\XuLyExeption.dll

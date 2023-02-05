@@ -1,0 +1,15 @@
+D:\console\c2-test-fixed\bin\Debug\net6.0\c2-test-fixed.exe
+D:\console\c2-test-fixed\bin\Debug\net6.0\c2-test-fixed.deps.json
+D:\console\c2-test-fixed\bin\Debug\net6.0\c2-test-fixed.runtimeconfig.json
+D:\console\c2-test-fixed\bin\Debug\net6.0\c2-test-fixed.dll
+D:\console\c2-test-fixed\bin\Debug\net6.0\c2-test-fixed.pdb
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.csproj.AssemblyReference.cache
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.AssemblyInfoInputs.cache
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.AssemblyInfo.cs
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.csproj.CoreCompileInputs.cache
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.dll
+D:\console\c2-test-fixed\obj\Debug\net6.0\refint\c2-test-fixed.dll
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.pdb
+D:\console\c2-test-fixed\obj\Debug\net6.0\c2-test-fixed.genruntimeconfig.cache
+D:\console\c2-test-fixed\obj\Debug\net6.0\ref\c2-test-fixed.dll

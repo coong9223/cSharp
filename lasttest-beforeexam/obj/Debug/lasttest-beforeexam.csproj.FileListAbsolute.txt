@@ -1,0 +1,8 @@
+D:\console\lasttest-beforeexam\bin\Debug\lasttest-beforeexam.exe.config
+D:\console\lasttest-beforeexam\bin\Debug\lasttest-beforeexam.exe
+D:\console\lasttest-beforeexam\bin\Debug\lasttest-beforeexam.pdb
+D:\console\lasttest-beforeexam\obj\Debug\lasttest-beforeexam.csproj.AssemblyReference.cache
+D:\console\lasttest-beforeexam\obj\Debug\lasttest-beforeexam.csproj.SuggestedBindingRedirects.cache
+D:\console\lasttest-beforeexam\obj\Debug\lasttest-beforeexam.csproj.CoreCompileInputs.cache
+D:\console\lasttest-beforeexam\obj\Debug\lasttest-beforeexam.exe
+D:\console\lasttest-beforeexam\obj\Debug\lasttest-beforeexam.pdb

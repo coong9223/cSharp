@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BAI_1_5_EFCORE_CODEFIRST
+build_property.ProjectDir = D:\zalo download\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_5_EFCORE_CODEFIRST\

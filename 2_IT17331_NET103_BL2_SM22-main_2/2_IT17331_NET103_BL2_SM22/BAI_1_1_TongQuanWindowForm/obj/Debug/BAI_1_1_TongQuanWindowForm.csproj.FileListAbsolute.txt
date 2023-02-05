@@ -1,0 +1,22 @@
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\bin\Debug\BAI_1_1_TongQuanWindowForm.exe.config
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\bin\Debug\BAI_1_1_TongQuanWindowForm.exe
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\bin\Debug\BAI_1_1_TongQuanWindowForm.pdb
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.AssemblyReference.cache
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.Form1.resources
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.Properties.Resources.resources
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.GenerateResource.cache
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.CoreCompileInputs.cache
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.exe
+F:\OneDrive - FPT EDUCATION\8. Demo\Demo C#3\2_IT17331_NET103_BL2_SM22\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.pdb
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\bin\Debug\BAI_1_1_TongQuanWindowForm.exe.config
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\bin\Debug\BAI_1_1_TongQuanWindowForm.exe
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\bin\Debug\BAI_1_1_TongQuanWindowForm.pdb
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.AssemblyReference.cache
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.SuggestedBindingRedirects.cache
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.Form1.resources
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.Properties.Resources.resources
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.GenerateResource.cache
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.csproj.CoreCompileInputs.cache
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.exe
+D:\VS\C# 3\2_IT17331_NET103_BL2_SM22-main_2\2_IT17331_NET103_BL2_SM22\BAI_1_1_TongQuanWindowForm\obj\Debug\BAI_1_1_TongQuanWindowForm.pdb

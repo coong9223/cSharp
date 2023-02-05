@@ -1,0 +1,15 @@
+D:\console\xử lý chuổi\bin\Debug\net6.0\xử lý chuổi.exe
+D:\console\xử lý chuổi\bin\Debug\net6.0\xử lý chuổi.deps.json
+D:\console\xử lý chuổi\bin\Debug\net6.0\xử lý chuổi.runtimeconfig.json
+D:\console\xử lý chuổi\bin\Debug\net6.0\xử lý chuổi.dll
+D:\console\xử lý chuổi\bin\Debug\net6.0\xử lý chuổi.pdb
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.csproj.AssemblyReference.cache
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.AssemblyInfoInputs.cache
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.AssemblyInfo.cs
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.csproj.CoreCompileInputs.cache
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.dll
+D:\console\xử lý chuổi\obj\Debug\net6.0\refint\xử lý chuổi.dll
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.pdb
+D:\console\xử lý chuổi\obj\Debug\net6.0\xử lý chuổi.genruntimeconfig.cache
+D:\console\xử lý chuổi\obj\Debug\net6.0\ref\xử lý chuổi.dll

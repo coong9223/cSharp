@@ -1,0 +1,8 @@
+D:\console\test-last\bin\Debug\test-last.exe.config
+D:\console\test-last\bin\Debug\test-last.exe
+D:\console\test-last\bin\Debug\test-last.pdb
+D:\console\test-last\obj\Debug\test-last.csproj.AssemblyReference.cache
+D:\console\test-last\obj\Debug\test-last.csproj.SuggestedBindingRedirects.cache
+D:\console\test-last\obj\Debug\test-last.csproj.CoreCompileInputs.cache
+D:\console\test-last\obj\Debug\test-last.exe
+D:\console\test-last\obj\Debug\test-last.pdb

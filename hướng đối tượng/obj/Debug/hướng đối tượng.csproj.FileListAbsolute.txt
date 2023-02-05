@@ -1,0 +1,8 @@
+D:\console\hướng đối tượng\bin\Debug\hướng đối tượng.exe.config
+D:\console\hướng đối tượng\bin\Debug\hướng đối tượng.exe
+D:\console\hướng đối tượng\bin\Debug\hướng đối tượng.pdb
+D:\console\hướng đối tượng\obj\Debug\hướng đối tượng.csproj.AssemblyReference.cache
+D:\console\hướng đối tượng\obj\Debug\hướng đối tượng.csproj.SuggestedBindingRedirects.cache
+D:\console\hướng đối tượng\obj\Debug\hướng đối tượng.csproj.CoreCompileInputs.cache
+D:\console\hướng đối tượng\obj\Debug\hướng đối tượng.exe
+D:\console\hướng đối tượng\obj\Debug\hướng đối tượng.pdb

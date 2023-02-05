@@ -1,0 +1,13 @@
+D:\cSharp\SOF205_PH27488\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.deps.json
+D:\cSharp\SOF205_PH27488\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.dll
+D:\cSharp\SOF205_PH27488\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.pdb
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.csproj.AssemblyReference.cache
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.AssemblyInfoInputs.cache
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.AssemblyInfo.cs
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.csproj.CoreCompileInputs.cache
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.dll
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.pdb
+D:\cSharp\SOF205_PH27488\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.runtimeconfig.json
+D:\cSharp\SOF205_PH27488\1.DAL\bin\Debug\netcoreapp3.1\1.DAL.runtimeconfig.dev.json
+D:\cSharp\SOF205_PH27488\1.DAL\obj\Debug\netcoreapp3.1\1.DAL.genruntimeconfig.cache

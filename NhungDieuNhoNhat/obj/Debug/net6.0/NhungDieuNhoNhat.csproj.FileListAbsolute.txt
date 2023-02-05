@@ -1,0 +1,15 @@
+D:\console\NhungDieuNhoNhat\bin\Debug\net6.0\NhungDieuNhoNhat.exe
+D:\console\NhungDieuNhoNhat\bin\Debug\net6.0\NhungDieuNhoNhat.deps.json
+D:\console\NhungDieuNhoNhat\bin\Debug\net6.0\NhungDieuNhoNhat.runtimeconfig.json
+D:\console\NhungDieuNhoNhat\bin\Debug\net6.0\NhungDieuNhoNhat.dll
+D:\console\NhungDieuNhoNhat\bin\Debug\net6.0\NhungDieuNhoNhat.pdb
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.csproj.AssemblyReference.cache
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.AssemblyInfoInputs.cache
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.AssemblyInfo.cs
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.csproj.CoreCompileInputs.cache
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.dll
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\refint\NhungDieuNhoNhat.dll
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.pdb
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\NhungDieuNhoNhat.genruntimeconfig.cache
+D:\console\NhungDieuNhoNhat\obj\Debug\net6.0\ref\NhungDieuNhoNhat.dll

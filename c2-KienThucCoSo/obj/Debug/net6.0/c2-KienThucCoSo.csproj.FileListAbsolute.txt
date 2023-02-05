@@ -1,0 +1,15 @@
+D:\console\c2-KienThucCoSo\bin\Debug\net6.0\c2-KienThucCoSo.exe
+D:\console\c2-KienThucCoSo\bin\Debug\net6.0\c2-KienThucCoSo.deps.json
+D:\console\c2-KienThucCoSo\bin\Debug\net6.0\c2-KienThucCoSo.runtimeconfig.json
+D:\console\c2-KienThucCoSo\bin\Debug\net6.0\c2-KienThucCoSo.dll
+D:\console\c2-KienThucCoSo\bin\Debug\net6.0\c2-KienThucCoSo.pdb
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.csproj.AssemblyReference.cache
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.AssemblyInfoInputs.cache
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.AssemblyInfo.cs
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.csproj.CoreCompileInputs.cache
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.dll
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\refint\c2-KienThucCoSo.dll
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.pdb
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\c2-KienThucCoSo.genruntimeconfig.cache
+D:\console\c2-KienThucCoSo\obj\Debug\net6.0\ref\c2-KienThucCoSo.dll

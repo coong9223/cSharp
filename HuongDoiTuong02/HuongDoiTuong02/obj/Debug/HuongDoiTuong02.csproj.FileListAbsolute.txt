@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\bin\Debug\HuongDoiTuong02.exe.config
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\bin\Debug\HuongDoiTuong02.exe
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\bin\Debug\HuongDoiTuong02.pdb
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.exe
+C:\Users\admin\Desktop\vs project\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.pdb
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\bin\Debug\HuongDoiTuong02.exe.config
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\bin\Debug\HuongDoiTuong02.exe
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\bin\Debug\HuongDoiTuong02.pdb
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.csproj.AssemblyReference.cache
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.csproj.CoreCompileInputs.cache
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.exe
+C:\Users\Cong's laptop\Downloads\HuongDoiTuong02\HuongDoiTuong02\obj\Debug\HuongDoiTuong02.pdb

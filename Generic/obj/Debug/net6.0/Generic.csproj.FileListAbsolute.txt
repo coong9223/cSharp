@@ -1,0 +1,15 @@
+D:\console\Generic\bin\Debug\net6.0\Generic.exe
+D:\console\Generic\bin\Debug\net6.0\Generic.deps.json
+D:\console\Generic\bin\Debug\net6.0\Generic.runtimeconfig.json
+D:\console\Generic\bin\Debug\net6.0\Generic.dll
+D:\console\Generic\bin\Debug\net6.0\Generic.pdb
+D:\console\Generic\obj\Debug\net6.0\Generic.csproj.AssemblyReference.cache
+D:\console\Generic\obj\Debug\net6.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\Generic\obj\Debug\net6.0\Generic.AssemblyInfoInputs.cache
+D:\console\Generic\obj\Debug\net6.0\Generic.AssemblyInfo.cs
+D:\console\Generic\obj\Debug\net6.0\Generic.csproj.CoreCompileInputs.cache
+D:\console\Generic\obj\Debug\net6.0\Generic.dll
+D:\console\Generic\obj\Debug\net6.0\refint\Generic.dll
+D:\console\Generic\obj\Debug\net6.0\Generic.pdb
+D:\console\Generic\obj\Debug\net6.0\Generic.genruntimeconfig.cache
+D:\console\Generic\obj\Debug\net6.0\ref\Generic.dll

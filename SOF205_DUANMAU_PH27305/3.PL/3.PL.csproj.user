@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\HoaDonView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\NhanVienView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLChucVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLCuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLDongSp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLMauSac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLNsx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\QLSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\SanPhamView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TestingDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
